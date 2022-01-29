@@ -1,0 +1,18 @@
+	NCamera = {
+		GALAXY_SPACE_SCALE_MULT			= 3.0
+		ZOOM_STEPS_GALAXY 			    = { 200 400 800 1200 1600 2400 3600 }
+		GALAXY_SHOW_FLEETS_ZOOM 		= 2500 # Camera zoom interval to show fleet icons
+		GALAXY_SHOW_STARNAME_ZOOM 		= 1500 # Camera zoom interval to show star name
+	}
+
+	NGameplay = {
+		HYPERLANE_GEN_REMOVED_MAX_DIST		= 16
+		HYPERLANE_GEN_REMOVE_TOO_MANY_EDGES = 5
+		SPAWN_SYSTEM_BUFFER_DISTANCE		= 4.0	
+		SPAWN_SYSTEM_ATTEMPTS				= 30
+	}
+	
+	NGraphics = {
+		GALAXY_STAR_ICON_SCALE				= 1.0
+		GALAXY_STAR_ICON_MAX_SCALE 			= 2.0
+	}

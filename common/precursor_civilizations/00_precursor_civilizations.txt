@@ -1,0 +1,36 @@
+precursor_1 = {
+	size = 200
+}
+
+precursor_2 = {
+	size = 200
+}
+
+precursor_3 = {
+	size = 200
+}
+
+precursor_4 = {
+	size = 200
+}
+
+precursor_5 = {
+	size = 200
+}
+
+precursor_baol_1 = {
+	size = 200
+
+	possible = {
+		has_ancrel = yes
+	}
+}
+
+precursor_zroni_1 = {
+	size = 200
+
+	possible = {
+		has_ancrel = yes
+	}
+}
+

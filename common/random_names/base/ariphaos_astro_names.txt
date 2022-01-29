@@ -1,0 +1,1832 @@
+species_modification_prefix = { 
+	"Grand "
+	"Great "
+	"High "
+	"Perfect "
+	Supra-
+	"True "
+}
+
+species_modification_postfix = { 
+	Excelsior
+	Omega
+	Primaris
+	Supernus
+}
+
+black_hole_names = {
+	"Black Marble"
+	"Void Marble"
+	"Dark Reach"
+	"Hunger Without End"
+	"That Which Feasts"
+	"Forever Falling"
+	"Abyss in Waiting"
+	"Iblis Waits"
+	"Awakened Abyss"
+	"Deepest Abyss"
+	"Faint Abyss"
+	"Heedless Abyss"
+	"Infinite Abyss"
+	"Lonely Abyss"
+	"Sorrow's Abyss"
+	"Erunadie's Bane"
+	"Siltarans Bane"
+	"Voor's Bane"
+	"Likorri Black Hole"
+	"Rintani Black Hole"
+	"Savranis Black Hole"
+	"Unali Black Hole"
+	"Aberrant Dark"
+	"Boundless Dark"
+	"Creeping Dark"
+	"Elder Dark"
+	"Eternal Dark"
+	"Faithless Dark"
+	"Grandmother Dark"
+	"Keening Dark"
+	"Mourning Dark"
+	"Weepless Dark"
+	"Absoral's Doom"
+	"Hunali's Doom"
+	"Jabborat's Doom"
+	"Malkettar's Doom"
+	"Phirinae's Doom"
+	"Shannerat's Doom"
+	"Xikksei's Doom"
+	"Eternal End"
+	"Faith's End"
+	"Reality's End"
+	"Sorrow's End"
+	"Time's End"
+	"Vikol's Ending"
+	"Abandoned Eye"
+	"Aimless Eye"
+	"Ancient Eye"
+	"Bared Eye"
+	"Changeless Eye"
+	"Demon's Eye"
+	"Endless Eye"
+	"Faint Eye"
+	"Fell Eye"
+	"Silent Eye"
+	"Sleepless Eye"
+	"Time's Eye"
+	"Unblinking Eye"
+	"Void's Eye"
+	"Weepless Eye"
+	"Hell's Gate"
+	"Naraka's Gate"
+	"Tartarus Gate"
+	"Valhalla's Gate"
+	"Xibalba's Gate"
+	"Yomi's Gate"
+	"Bounded Horizon"
+	"Dark Horizon"
+	"Ringed Horizon"
+	"Shadowed Horizon"
+	"Stark Horizon"
+	"Shaitan Hungers"
+	"Chokanni Maelstrom"
+	"Drudhakal Maelstrom"
+	"Helranti Maelstrom"
+	"Kithralhi Maelstrom"
+	"Rakkanla Maelstrom"
+	"Tzinkaran Maelstrom"
+	"Uncharok Maelstrom"
+	"Vidlaku Maelstrom"
+	"Endless Maw"
+	"Extinction's Maw"
+	"Hadean Maw"
+	"Hungry Maw"
+	"Jukarl's Maw"
+	"Nacre Maw"
+	"Oblivious Maw"
+	"Paleless Maw"
+	"Quiet Maw"
+	"Ravenous Maw"
+	"Starving Maw"
+	"Thirstless Maw"
+	"Unending Maw"
+	"Voracious Maw"
+	"Waiting Maw"
+	"Yawning Maw"
+	"Akuma's Realm"
+	"Boundless Shadow"
+	"Creeping Shadow"
+	"Endless Shadow"
+	"Hateful Shadow"
+	"Insidious Shadow"
+	"Lightless Shadow"
+	"Lonely Shadow"
+	"Scornful Shadow"
+	"Seething Shadow"
+	"Wandering Shadow"
+	"Ancient Silence"
+	"Creeping Silence"
+	"Eternal Silence"
+	"Mirthless Silence"
+	"Venerable Silence"
+	"Waiting Silence"
+	"Bounded Void"
+	"Deathly Void"
+	"Faded Void"
+	"Fell Void"
+	"Imperious Void"
+	"Simplex Void"
+	"Wandering Void"
+	"Wounded Void"
+	"Yearning Void"
+	"Keening Vortex"
+	"Screaming Vortex"
+	"Seething Vortex"
+	"Shrouded Vortex"
+	"Wailing Vortex"
+	"A-600 Singularity"
+	"AR-490 Singularity"
+	"B-19 Singularity"
+	"BN-838 Singularity"
+	"C-214 Singularity"
+	"CO-89-X Singularity"
+	"E-792 Singularity"
+	"ES-113 Singularity"
+	"F-303 Singularity"
+	"FN-42 Singularity"
+	"H-47 Singularity"
+	"HL-902 Singularity"
+	"I-35 Singularity"
+	"IN-413 Singularity"
+	"J-903 Singularity"
+	"JE-344 Singularity"
+	"K-76 Singularity"
+	"KX-389 Singularity"
+	"L-0 Singularity"
+	"LB-442 Singularity"
+	"LV-42 Singularity"
+	"M-143 Singularity"
+	"N-808 Singularity"
+	"NX-1002 Singularity"
+	"O-59 Singularity"
+	"O42-700 Singularity"
+	"P-971 Singularity"
+	"PV-04 Singularity"
+	"Q-40-N Singularity"
+	"QJ-653 Singularity"
+	"R-883 Singularity"
+	"RN-14 Singularity"
+	"S-70-V Singularity"
+	"T-13 Singularity"
+	"U-9 Singularity"
+	"V-93 Singularity"
+	"W-552 Singularity"
+	"WN-93 Singularity"
+	"X-612 Singularity"
+	"Y-431 Singularity"
+	"YV-232 Singularity"
+	"Z-507 Singularity"
+	"ZL-733 Singularity"
+	# Some Exalted themed Black Holes. Neverborn and Isidoros' sobriquet.
+	"Abhorrence of Life"
+	"Boar That Twists the Sky" # Don't want the name too long.
+	"Dragon That Was"
+	"Engine of Extinction"
+	"Father of Murder"
+	"Principle of Consumption"
+	"Tears of Want"
+	"Who Holds in Thrall"
+	"Whose Whispers Chain"
+}
+
+asteroid_prefix = {
+	4016-J-
+	8239-
+	APX-3
+	APX-9
+	BO-
+	BZ-4-
+	CXX-5-
+	DF-
+	EV-
+	FCL-
+	JQN-
+	KI-12-
+	P-82-
+	R89-
+	VX-
+	XXR-4-
+	YNO-
+	ZN-0-
+}
+
+asteroid_postfix = {
+	109-F
+	508-K
+	2137-M
+	8452
+	15016
+	17082
+	21176
+	27372
+	33208
+	34889-D
+	34889-L
+	41307
+	45520
+	54314-N
+	58327
+	62104
+	68419
+	72384
+	77626
+	87842
+	89023
+	90322
+	98030
+}
+
+star_names = {
+	# Non-IAU names of real stars
+	Kakkab
+	### IAU names not in 00_random_names, species names, or in initializers. See:
+	### https://www.iau.org/public/themes/naming_stars/
+	# Sham (Alpha Sagittae) dupes with cyberxkhan's list
+	Achird
+	Acrab
+	Adhafera
+	Adhara
+	Adhil
+	Ain
+	Ainalrami
+	Aladfar
+	Albaldah
+	Albali
+	Albireo
+	Alchiba
+	Alcyone
+	Alderamin
+	Aldhanab
+	Aldhibah
+	Aldulfin
+	Alfirk
+	Algedi
+	Algenib
+	Algieba
+	Alhena
+	Aljanah
+	Alkalurops
+	Alkaphrah
+	Alkarab
+	Alkes
+	Almaaz
+	Alnair
+	Alnasl
+	Alnilam
+	Alnitak
+	Alniyat
+	Alpheratz
+	Alpherg
+	Alrakis
+	Alrescha
+	Alruba
+	Alsafi
+	Alsciaukat
+	Alsephina
+	Alshain
+	Alshat
+	Altais
+	Alterf
+	"Alula Australis"
+	"Alula Borealis"
+	Alya
+	Alzirr
+	Ancha
+	Ankaa
+	Anser
+	"Arkab Posterior"
+	"Arkab Prior"
+	Arneb
+	"Asellus Australis"
+	"Asellus Borealis"
+	Ashlesha
+	Aspidiske
+	Athebyne
+	Atik
+	Atria
+	Azelfafage
+	Azmidi
+	"Baten Kaitos"
+	Beemim
+	Bharani
+	Castula
+	Cebalrai
+	Cervantes
+	Chalawan
+	Chamukuy
+	Copernicus
+	"Cor Caroli"
+	Cujam
+	Dalim
+	"Deneb Algedi"
+	Denebola
+	Dschubba
+	Dubhe
+	Dziban
+	Elgafar
+	Elkurud
+	Eltanin
+	Fafnir
+	Fang
+	Fawaris
+	Felis
+	Fulu
+	Fumalsamakah
+	Fuyue
+	Gacrux
+	Giausar
+	Gienah
+	Ginan
+	Gudja
+	Guniibuu
+	Hamal
+	Hassaleh
+	Hatysa
+	Helvetios
+	Iklil
+	Imai
+	Intercrus
+	Jishui
+	Kaffaljidhma
+	Kang
+	"Kaus Australis"
+	"Kaus Borealis"
+	"Kaus Media"
+	Khambalia
+	Kitalpha
+	Kurhah
+	Larawag
+	"La Superba"
+	Libertas
+	Lich
+	"Lilii Borea"
+	Mahasim
+	Marfik
+	Markeb
+	Marsic
+	Mebsuta
+	Megrez
+	Mekbuda
+	Meleph
+	Menkalinan
+	Menkent
+	Menkib
+	Merak
+	Meridiana
+	Miaplacidus
+	Mimosa
+	Minelauva
+	Miram
+	Mirfak
+	Misam
+	Mothallah
+	Muliphein
+	Musica
+	Nahn
+	Ogma
+	Okab
+	Paikauhale
+	Peacock
+	Phecda
+	Piautos
+	Pipirima
+	"Polaris Australis"
+	Polis
+	Praecipua
+	Prima Hyadum
+	Ran
+	Revati
+	Ruchbah
+	Saclateni
+	Sadachbia
+	Sadalmelik
+	Sadalsuud
+	Sadr
+	Salm
+	Sarin
+	Schedar
+	"Secunda Hyadum"
+	Segin
+	#Sham
+	Sualocin
+	Suhail
+	Sulafat
+	Tabit
+	Taiyangshou
+	Taiyi
+	Talitha
+	"Tania Australis"
+	"Tania Borealis"
+	Tarf
+	Taygeta
+	Tegmine
+	Tejat
+	Tiaki
+	Tianguan
+	Tianyi
+	Titawin
+	Tonatiuh
+	Torcular
+	Ukdah
+	Unukalhai
+	Unurgunite
+	Veritate
+	Vindemiatrix
+	Wazn
+	Wurren
+	Xamidimura
+	Xuange
+	"Yed Posterior"
+	"Yed Prior"
+	Zavijava
+	Zhang
+	Zibal
+	Zubenelgenubi
+	Zubenelhakrabi
+	Zubeneschamali
+	### Exalted - though most of these are real-world references at one level or another. Isidoros gets his proper name here.
+	Aardra
+	Adorjan
+	Akiyo
+	Amilar
+	Autochton
+	Berit
+	Burano
+	Cathak
+	Cecelyne
+	Chanos
+	Claslat
+	Cynis
+	Desai
+	Elloge
+	Estasia
+	Ferem
+	Gulak
+	Hadal
+	"Haya-Shira"
+	Hegra
+	Iselsi
+	Ishiika
+	Isidoros 
+	Ledaal
+	Jarish
+	Jereh
+	Jurul
+	Kamak
+	Karal
+	Kimbery
+	Kiriga
+	Krouncha
+	Madava
+	Maheka
+	Malfeas
+	Manosque
+	Mardukth
+	Metagaos
+	Mnemon
+	Modaki
+	Mohana
+	Namadiksha
+	Nefvarin
+	Nellens
+	Nerigus
+	Nirvahara
+	Nurad
+	Ophris
+	Oramus
+	Peleps
+	Qaf
+	Ragara
+	Rawar
+	Rulinsei
+	Sacheverel
+	Sayujya
+	Sesus
+	Shushka
+	Sirels
+	Sova
+	Szoreny
+	Taroketu
+	Tejaprabha
+	Tepet
+	Teresu
+	Theion
+	Toriki
+	"V'neef"
+	Viator
+	Wanasaan
+	"Yan Tu"
+	"Yu Shan"
+	Yueh
+	Yugash
+	Yushoto
+	"Zen-Mu"
+	### Completely made up.
+	### Some from http://www.fantasynamegenerators.com - most modified
+	### Some from http://enneadgames.com/generators/star-system-planet-name-generator-2/ - Generates much better names as a base, for the most part.
+	Aalaya
+	Aanuran
+	Aasival
+	Aasome
+	Aaveret
+	Abade
+	Abhire
+	Abraptor
+	Abronut
+	Absombo
+	Abugomo
+	Abustane
+	Abxantar
+	Acceve
+	Acheral
+	Acrets
+	Acuinne
+	Adephi
+	Adilor
+	Adjunol
+	Aenatrix
+	Aenreit
+	Aeriphro
+	Aethe
+	Aephere
+	Aexxe
+	Affaran
+	Aflerao
+	Afrouz
+	Afzenar
+	Agamel
+	Aglids
+	Agribe
+	Agthora
+	Agxen
+	Ahailixo
+	Ahderat
+	Ahhi
+	Ahiash
+	Ahlen
+	Ahtui
+	Ahxxo
+	Aibse
+	Aimeran
+	Aizen
+	Ajavu
+	Ajekki
+	Ajervhetal
+	Ajilon
+	Ajranar
+	Ajzenalu
+	Akatsi
+	Akeinz
+	Akeno
+	Aklan
+	Akruli
+	Alakk
+	Albicana
+	Allara
+	Alphaxxu
+	Alranor
+	Altronika
+	Aluithe
+	Aluto
+	Alzinor
+	Amboro
+	Amkatar
+	Ammaneg
+	Amplala
+	Amplitox
+	Amplothu
+	Amranrei
+	Amsiraph
+	Anbur
+	Andlumix
+	Aneis
+	Annuji
+	Anogru
+	Antcogol
+	Antirys
+	Anxei
+	Aozenwal
+	Apheuc
+	Aphire
+	Aphrolin
+	Apicuni
+	Apoltek
+	Apriru
+	Aquinne
+	Arenomi
+	Arephe
+	Argilok
+	Arginis
+	Arissu
+	Arkafi
+	Arukhe
+	Asewaje
+	Ashdab
+	Ashoed
+	Asimoni
+	Asixanoi
+	Astemerath
+	Asylokri
+	Atamina
+	Athearsu
+	Atlinti
+	Attalla
+	Audhe
+	Aumrat
+	Avaroo
+	Avredei
+	Avruazvee
+	Avudatum
+	Avulet
+	Awanne
+	Axavan
+	Axxenal
+	Ayedeli
+	Azanal
+	Azzerat
+	Babanight
+	Baedrilat
+	Baelle
+	Bairo
+	Bapam
+	Baquau
+	Bavnel
+	Bavredan
+	Behokat
+	Benanko
+	Beznilal
+	Bintlotli
+	Birphem
+	Bistel
+	Bitrothi
+	Bitzorita
+	Boai
+	Bokke
+	Bolladu
+	Bosut
+	Bovil
+	Boxdronal
+	Bracvelu
+	Brahronol
+	Brayd
+	Breol
+	Brinten
+	Briphiz
+	Broep
+	Brontrati
+	Brucite
+	Brueli
+	Brusapan
+	Bruteino
+	Bruthepica
+	Buaei
+	Bujwhet
+	Bunphu
+	Buvnaki
+	Bydo
+	Bygiero
+	Bythe
+	Byzzual
+	Cacanoi
+	Caddanz
+	Caeln
+	Calygray
+	Calyon
+	Camgeni
+	Canaphae
+	Cannilene
+	Caokruj
+	Carnobe
+	Casains
+	Catino
+	Ceghu
+	Cekali
+	Cenmirith
+	Ceshoam
+	Chausdu
+	Cheender
+	Chemonak
+	Chibsaups
+	Chistol
+	Choansi
+	Chrodom
+	Cirini
+	Coithoc
+	Coitogaze
+	Commologi
+	Compzoline
+	Comserat
+	Connorought
+	Conthrado
+	Corhhiv
+	Corostyx
+	Corsyu
+	Cortron
+	Coscepti
+	Cratab
+	Cratum
+	Crenati
+	Crenec
+	Crien
+	Croi
+	Crunne
+	Cryphotal
+	Cryssator
+	Culni
+	Cuxxo
+	Cybricon
+	Cycmetrel
+	Cylaforne
+	Cylomon
+	Cysphero
+	Daerne
+	Daifi
+	Dalu
+	Damre
+	Datchii
+	Dathsmitt
+	Davni
+	Decunne
+	Deegret
+	Deigren
+	Demali
+	Demath
+	Dempilla
+	Denizzu
+	Destorai
+	Devtercoun
+	Dezzath
+	Diavanisor
+	Didragh
+	Diphos
+	Diptavis
+	Dirche
+	Discormo
+	Dismer
+	Dismethrid
+	Dismore
+	Distavo
+	Disvher
+	Dithu
+	Doene
+	Donite
+	Dorme
+	Dotel
+	Dottu
+	Drappha
+	Drealamoi
+	Drefrobo
+	Dreskweh
+	Driglep
+	Drociuh
+	Ducent
+	Dulseoph
+	Dulysia
+	Duquask
+	Duvox
+	Dyplari
+	Dythmorau
+	Eabsil
+	Eanre
+	Ebaphi
+	Ebere
+	Ebethe
+	Ebios
+	Ebotli
+	Ebrymoto
+	Ebuatiplax
+	Eccanti
+	Ecreni
+	Eddemo
+	Edreni
+	Eeju
+	Eenze
+	Efli
+	Efrah
+	Efranu
+	Egiku
+	Egore
+	Egothazi
+	Egovel
+	Egran
+	Ehksu
+	Eihn
+	Eijir
+	Ejrad
+	Eju
+	Ekhenne
+	Ekrani
+	Eleture
+	Elexin
+	Eleyu
+	Elike
+	Elitaphor
+	Elluje
+	Eloku
+	Emmun
+	Emzer
+	Enaeri
+	Enimanox
+	Enimvoco
+	Ensetroik
+	Envonsu
+	Enymatuth
+	Epeki
+	Ephaeci
+	Ephevun
+	Ephrocu
+	Equach
+	Equeeds
+	Equouphra
+	Erei
+	Eridicon
+	Eritros
+	Erriphe
+	Erycapo
+	Eryxapethe
+	Esille
+	Ethine
+	Ethlodon
+	Euderan
+	Eunsi
+	Euphu
+	Eurplati
+	Eurvare
+	Eutot
+	Evaj
+	Evjoc
+	Evne
+	Ewki
+	Ewnoph
+	Exshenar
+	Extone
+	Eyatallor
+	Eyn
+	Ezcenar
+	Eziwhei
+	Ezshordal
+	Facheral
+	Faeds
+	Fahntil
+	Fanxu
+	Fathrolux
+	Faxopso
+	Feelkruht
+	Feenz
+	Feihj
+	Fetudama
+	Fexel
+	Fithres
+	Fleictul
+	Foag
+	Foistru
+	Fonnli
+	Forgonoid
+	Forvawe
+	Foxxi
+	Fruva
+	Fucide
+	Fudshe
+	Fuje
+	Fumilo
+	Futhic
+	Fuvvar
+	Gabbere
+	Gadru
+	Gadsden
+	Galathroph
+	Galvacic
+	Gamoghia
+	Ganse
+	Gavsces
+	Geadol
+	Geaphon
+	Geimje
+	Gelt
+	Gensehrant
+	Gentonal
+	Gethrop
+	Gexius
+	Gifro
+	Gilek
+	Giturn
+	Gleslot
+	Glotlophe
+	Godveight
+	Goedach
+	Grival
+	Grochibo
+	Grotaso
+	Grudwav
+	Gupu
+	Gutela
+	Guzlizri
+	Gynnot
+	Gyomeg
+	Gyxx
+	Habbor
+	Hadertal
+	Hadipreps
+	Hadverre
+	Hamithi
+	Harmola
+	Heanre
+	Hebtxo
+	Hemvisol
+	Hemvisu
+	Hezketz
+	Hiamot
+	Hiavark
+	Hijenti
+	Hilaphi
+	Hi-Ning
+	Hippumo
+	Holioj
+	Holiphet
+	Homeoch
+	Homino
+	Hozzel
+	Hugnus
+	Humbythe
+	Hureight
+	Hurrthyst
+	Hyabrin
+	Hychandor
+	Hydmannir
+	Hydsyro
+	Hynomic
+	Hynx
+	Hyomator
+	Hyosoid
+	Hypnover
+	Hypretaith
+	Hypretor
+	Hyprome
+	Iainne
+	Iauche
+	Ibbaren
+	Iblan
+	Icajjet
+	Icathos
+	Ichlon
+	Idlaine
+	Idurem
+	Ienne
+	Iffrenne
+	Iglebbud
+	Igzadu
+	Ihanu
+	Ihimi
+	Iine
+	Ijente
+	Ijurem
+	Ikhova
+	Ikirim
+	Illim
+	Ilmuzad
+	Ilouch
+	Imadu
+	Imlattat
+	Imrunat
+	Inferam
+	Inkano
+	Inmatica
+	Innereight
+	Inrep
+	Insecabre
+	Insetru
+	Intherr
+	Ioben
+	Ioza
+	Ipraith
+	Iquande
+	Irazd
+	Irilife
+	Irogaz
+	Irymor
+	Isazu
+	Ishtsaik
+	Itholl
+	Itoldel
+	Iude
+	Iuhan
+	Ivaro
+	Ivasu
+	Ivreight
+	Iwona
+	Ixonnu
+	Iyare
+	Iyuke
+	Izelli
+	Izoran
+	Izzumu
+	Jabbe
+	Jaecta
+	Jagrha
+	Jentrani
+	Jetcuphor
+	Jexxe
+	Jiithe
+	Jivun
+	Jobbre
+	Joclixo
+	Jokkei
+	Jubrel
+	Junpatho
+	Juprithi
+	Juuxxe
+	Jyiv
+	Jyuun
+	Kangonomo
+	Kanmogona
+	Kaoramme
+	Kaxxaikh
+	Kaycrath
+	Keaukosh
+	Kiibryo
+	Kiirn
+	Kiloch
+	Kilou
+	Kizxi
+	Klerius
+	Klirsis
+	Koaddip
+	Koananc
+	Kosgraph
+	Kosmirophe
+	Kosmombi
+	Kraphiw
+	Kratix
+	Kraxxe
+	Kredroy
+	Kreurris
+	Kryro
+	Kseddo
+	Kupsuli
+	Kushiab
+	Kyavor
+	Kyonx
+	Laem
+	Laglia
+	Lanze
+	Lartal
+	Laudret
+	Laxacad
+	Lboru
+	Lechar
+	Legydro
+	Leinrei
+	Lelogis
+	Lenamat
+	Lenuk
+	Lexadron
+	Ligles
+	Ligthyne
+	Linudor
+	Liwol
+	Llosiph
+	Llugogh
+	Loaftplaz
+	Loboden
+	Logpatho
+	Lolgaph
+	Lolmoi
+	Lolrin
+	Lophide
+	Lophmar
+	Loroch
+	Lurilsoph
+	Lymmel
+	Lyronel
+	Lyzze
+	Maclorl
+	Mactresti
+	Madoni
+	Maen
+	Manathol
+	Mannistri
+	Masin
+	Masrakar
+	Maxadh
+	Maxgalan
+	Maxizoi
+	Maxnithogh
+	Maxulucrodo
+	Medderan
+	Meditho
+	Medmilli
+	Meduroin
+	Megrud
+	Mehttor
+	Meisoven
+	Melapaphi
+	Melnomari
+	Melothia
+	Mendeskar
+	Mercendi
+	Mercenforn
+	Metakos
+	Mevhd
+	Milek
+	Minmawor
+	Minthelex
+	Minulcyon
+	Miquor
+	Mitox
+	Miydod
+	Mizzon
+	Mobikh
+	Modunalu
+	Moduramo
+	Mokhon
+	Montant
+	Moodoxi
+	Moomreg
+	Morphodsi
+	Mortaphon
+	Motiogol
+	Multconi
+	Munai
+	Muvvou
+	Myaus
+	Mycodia
+	Mycsiol
+	Mynzel
+	Myomuthan
+	Myrmisandre
+	Myrmissine
+	Myrthinox
+	Naksrunneh
+	Nastu
+	Nbyron
+	Nebuphare
+	Nedechon
+	Neechat
+	Neocator
+	Neovos
+	Nephaku
+	Nephambo
+	Nesphymnia
+	Neurloph
+	Nexowo
+	Ngasos
+	Ngiyye
+	Ngurare
+	Nicodrom
+	Nidora
+	Nikdoria
+	Nikigni
+	Nikitheu
+	Nistrir
+	Niwqui
+	Nocize
+	Nomena
+	Nonirophe
+	Noxxiz
+	Nrathur
+	Nuior
+	Numinon
+	Nunomik
+	Nyrhel
+	Nysglen
+	Nystyp
+	Nysvanni
+	Nzarranan
+	Oachs
+	Oandor
+	Obetrum
+	Obroalt
+	Occunax
+	Ochurius
+	Ocrono
+	Odberu
+	Oddrekunz
+	Odessacron
+	Oeinr
+	Oezenal
+	Ofani
+	Offiren
+	Ofvuli
+	Oggrac
+	Ogizno
+	Ogxud
+	Ohaev
+	Ohienx
+	Ohquein
+	Oiaen
+	Oiju
+	Ojkulan
+	Ojxul
+	Okien
+	Okkula
+	Okzaki
+	Olaizn
+	Ollix
+	Omairon
+	Omnumi
+	Omoforni
+	Omophiarath
+	Omoril
+	Omthisar
+	Onakhora
+	Oneaphxun
+	Onxutai
+	Oohmica
+	Opaila
+	Ophamar
+	Optivos
+	Opzil
+	Oshaklux
+	Ostroztua
+	Othum
+	Othuqual
+	Ottulan
+	Ouns
+	Ouphri
+	Outrethya
+	Ovjil
+	Ovlim
+	Owhoeto
+	Oxati
+	Oxxox
+	Oxyl
+	Oyixin
+	Oyyun
+	Ozal
+	Ozran
+	Oztu
+	Palrin
+	Palt
+	Panaru
+	Panavisre
+	Pandalix
+	Panphori
+	Papatris
+	Pasquor
+	Pegaan
+	Penaress
+	Penarno
+	Penaway
+	Peribyth
+	Petriel
+	Phaenlar
+	Phaido
+	Phematum
+	Phenephi
+	Phiamdal
+	Phigonal
+	Philaxadon
+	Philtronxi
+	Phintino
+	Phorubot
+	Phosive
+	Phytrop
+	Pinoped
+	Pisabre
+	Pizu
+	Plajo
+	Planlectri
+	Planmitre
+	Plathostav
+	Plemson
+	Plordryl
+	Plupathi
+	Pluthualli
+	Poformix
+	Polphelix
+	Poltixi
+	Pomodo
+	Poroni
+	Posrogthon
+	Postozar
+	Preinde
+	Protocus
+	Pseuthonti
+	Psyhaghra
+	Pulun
+	Puphnu
+	Putriag
+	Pykhy
+	Pyvve
+	Qaan
+	Qairuslan
+	Qarri
+	Qaxi
+	Qejib
+	Qekkan
+	Qoorn
+	Qoox
+	Quanrek
+	Quanthu
+	Quaphro
+	Quashiro
+	Quethboim
+	Quoeso
+	Quothei
+	Qykhi
+	Qyuxuq
+	Radinurt
+	Radirami
+	Radiurken
+	Ramshago
+	Ramshaw
+	Ramshoin
+	Raojara
+	Rauvrath
+	Ravatant
+	Reikhinor
+	Reipsan
+	Relia
+	Relysia
+	Retarix
+	Retasect
+	Retzia
+	Rewcrae
+	Rewiris
+	Riabvar
+	Rianane
+	Rijax
+	Rinorica
+	Roanxi
+	Rokest
+	Roren
+	Rovecci
+	Runalle
+	Ryaboa
+	Ryopho
+	Sanon
+	Sapalar
+	Savii
+	Saxxe
+	Screedonyx
+	Scyllaci
+	Sentignor
+	Sestonal
+	Setate
+	Sethorn
+	Shadorix
+	Shahodex
+	Shai
+	Shanwe
+	Sheorix
+	Shinliux
+	Shiolor
+	Shishai
+	Shivcua
+	Sinolex
+	Sinphor
+	Siukka
+	Snadol
+	Snalixi
+	Sojhaphi
+	Solaa
+	Sonthrix
+	Sopulene
+	Sorrat
+	Spacnary
+	Sphectrol
+	Sreeves
+	Sriusak
+	Sroest
+	Stanploxi
+	Strathu
+	Stravasion
+	Striac
+	Suimaxi
+	Suipag
+	Sumder
+	Supzomo
+	Swicbei
+	Swichri
+	Swipphe
+	Sworaxis
+	Syjji
+	Tanerat
+	Tarvan
+	Teaci
+	Telofi
+	Terthyne
+	Thalitvo
+	Thausiv
+	Thayau
+	Thebnut
+	Thoni
+	Thorelazar
+	Thowins
+	Thraus
+	Thuhide
+	Thumax
+	Tidra
+	Tiehni
+	Tigheh
+	Titnari
+	Tixxu
+	Tlikhino
+	Tolrein
+	Torotaxie
+	Torpozu
+	Tovil
+	Toxiso
+	Toxqui
+	Traemvor
+	Tranphia
+	Triasoix
+	Triuzan
+	Trypleo
+	Tsorre
+	Tsulla
+	Tubunsor
+	Tubutho
+	Tullerat
+	Tuzenal
+	Tyewrn
+	Tyranalyn
+	Uaine
+	Uandi
+	Ubvuratu
+	Ubwlene
+	Uchyoti
+	Uddi
+	Udzalla
+	Uekh
+	Uezni
+	Ufalla
+	Ufrani
+	Ugeil
+	Ugxid
+	Uhano
+	Uhnx
+	Uijre
+	Uimx
+	Ujbhor
+	Ujoivz
+	Ukiddar
+	Ukkuqui
+	Ulchiv
+	Ulxik
+	Umajh
+	Umlekkar
+	Unreijr
+	Unziph
+	Uonoh
+	Uoruoruo
+	Uoxou
+	Uphorim
+	Uppuri
+	Uquizd
+	Urhejd
+	Urrurrukh
+	Usheith
+	Usiwn
+	Utela
+	Uuein
+	Uurx
+	Uverat
+	Uvlima
+	Uwuj
+	Uxein
+	Uxxan
+	Uyandor
+	Uyixh
+	Uzalli
+	Uzxin
+	Vaante
+	Vactphi
+	Vaoslae
+	Vatry
+	Vebay
+	Velcistat
+	Velocripan
+	Venulin
+	Verori
+	Vetino
+	Vettaj
+	Vexican
+	Vialathron
+	Viemr
+	Vimbi
+	Viocinth
+	Vocomethre
+	Vocsquor
+	Voornut
+	Voqui
+	Vraettodh
+	Vruccol
+	Vugroc
+	Vujet
+	Vulcasius
+	Vulthannu
+	Vuwred
+	Vyurch
+	Vyxiph
+	Wadraphe
+	Wantane
+	Warris
+	Waxxu
+	Weeplaktul
+	Wendz
+	Winnse
+	Wistok
+	Wivvel
+	Woisre
+	Wokkle
+	Wovei
+	Woyu
+	Wunetii
+	Wutchuni
+	Wykloi
+	Wymmkhi
+	Xainrux
+	Xanatra
+	Xavox
+	Xazphro
+	Xekunon
+	Xenhal
+	Xenoxus
+	Xephein
+	Xepler
+	Xibbxi
+	Ximmrar
+	Xixnikhi
+	Xoles
+	Xophait
+	Xorheiz
+	Xovvhoi
+	Xukkinjar
+	Xykrul
+	Xylaverzo
+	Xylorno
+	Xyrix
+	Xyzzox
+	Yabbaru
+	Yaji
+	Yammara
+	Yazan
+	Yberem
+	Ybloth
+	Ycante
+	Ycots
+	Yddym
+	Ydze
+	Yeddhirmu
+	Yfni
+	Yfzerad
+	Yggsare
+	Ygnalli
+	Yhanre
+	Yhinor
+	Yijim
+	Yiloc
+	Yjjeren
+	Yjui
+	Ykvande
+	Yllorai
+	Ylzerac
+	Ymilor
+	Ymseran
+	Ynrodat
+	Ynveal
+	Yolu
+	Yoppur
+	Yorr
+	Yottakrul
+	Youphed
+	Yppere
+	Yqinx
+	Yquain
+	Yrhendi
+	Yrrankh
+	Yshoni
+	Ysraini
+	Ystara
+	Ytalo
+	Ytheran
+	Yttirmin
+	Yujak
+	Yumiat
+	Yurulol
+	Yxtaira
+	Yybsy
+	Yynily
+	Yyrai
+	Yzinti
+	Yzyly
+	Zabbaz
+	Zacren
+	Zaft
+	Zalcoi
+	Zapacron
+	Zebfinai
+	Zebinet
+	Zebiphrine
+	Zefiphyre
+	Zefirnet
+	Zelonsor
+	Zemmirgy
+	Zenifus
+	Zeptobic
+	Zernat
+	Zesoe
+	Zetphere
+	Zeusniur
+	Zevatair
+	Zibol
+	Ziikuv
+	Zinizi
+	Zobduul
+	Zocka
+	Zoobithe
+	Zorchanic
+	Zotticori
+	Zrottil
+	Zuindar
+	Zuun
+	Zuuxuu
+	Zwamal
+	Zwonquor
+	Zwunl
+	Zyax
+	Zyin
+	Zzolifar
+	# Need to sort
+	Abifor
+	Adopat
+	Albiroph
+	Atoskak
+	Bognatr
+	Bogphox
+	Chemnoix
+	Cryogra
+	Destriman
+	Fozni
+	Halcychi
+	Halotine
+	Infrel
+	Inla
+	Junost
+	Jurage
+	Kaokator
+	Kradisk
+	Medimor
+	Miclonic
+	Mographi
+	Motolar
+	Myrformi
+	Narcide
+	Novupi
+	Nyofu
+	Optmorovor
+	Pelelog
+	Pinozu
+	Poseiraph
+	Positho
+	Rizbol
+	Solalog
+	Tamanomi
+	Teklabi
+	Teraxis
+	Uranbi
+	Viriphi
+	Zoticosoni
+	Zucuti
+	Yoctowori
+	Nasphani
+	Sanamu
+	Astrigh
+	Mataphion
+	Lifi
+	Dismore
+	Rezora
+	Scieroph
+	Scietronie
+	Berasthro
+	Tekkira
+	Melaere
+	Amiyu
+	Renant
+	Paphal	
+	Hippareo
+	Fuplosic
+	Mussgreph
+	Plexcai
+	Merximo
+	Vorranu
+	Volaxi
+	Kottokh
+	Sorelal
+	Kettani
+	Borrolo
+	Ghavisothi
+	Havellon
+	Torapsu
+	Rettarsu
+	Ravenol
+	Calivhi
+	Dhannu
+	Salphori
+	Otharu
+	Phurral
+	Follus
+	Iodaeme
+	Boloth
+	Veldtar
+	Ziggorax
+	Uvanni
+	Lanikani
+	Sorphenar
+	Phenarit
+	Faltis
+	Khonnoron
+	Khurez
+	Iolerae
+	Jivvast
+	Bhillic
+	Skornox
+	Sciexe
+	Uxiph
+	Rethor
+	Aabherad
+	Belduri
+	Canterbri
+	Dolax
+	Eniphu
+	Ficor
+	Ghulat
+	Hulan
+	Iphru
+	Jannuk
+	Karroon
+	Luzaph
+	Mvioni
+	Nrulan
+	Ozkrate
+	Pabber
+	Qivo
+	Quidlar
+	Rhev
+	Rixxe
+	Thulat
+	Uminalt
+	Vrothani
+	Vullac
+	Whule
+	Wrax
+	Xanilor
+	Xerxi
+	Yanil
+	Zrutat
+	Zikkur
+	Yuvel
+	Xiloth
+	Wuval
+	Varrim
+	Uushu
+	Talmet
+	Rusrao
+	Qiib
+	Puvu
+	Oprulo
+	Natzu
+	Mibbim
+	Leraphi
+	Kunca
+	Jharat
+	Iphori
+	Hranni
+	Ghosa
+	Fraz
+	Ernati
+	Dallir
+	Caterbad
+	Brunz
+	Azroni
+	Degalfi
+}
+
+nebula_names = {
+	# All real, only needed a few more.
+	"Orion Complex"
+	"Barnard's Loop"
+	"Carina Nebula"
+	"Coalsack Nebula"
+	"Cone Nebula"
+	"Dark Horse Nebula"
+	"Eagle Nebula"
+	"Heart Nebula"
+	"Lagoon Nebula"
+	"Lynx Arc"
+	"Pipe Nebula"
+	"Rho Oph Complex"
+	"Sadr Region"
+	"Snake Nebula"
+	"Tarantula Nebula"
+	"Taurus Molecular Cloud"
+}

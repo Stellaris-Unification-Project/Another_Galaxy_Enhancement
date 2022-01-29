@@ -1,0 +1,78 @@
+namespace = ariphaos_galaxies
+
+# Tiyanki Respawn
+event = {
+	id = ariphaos_galaxies.365
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { has_global_flag = tiyanki_home_cleared }
+		exists = event_target:tiyanki_spawn_system
+		any_country = {
+			OR = {
+				is_country_type = tiyanki
+				is_country_type = tiyanki_garrison
+			}
+			OR = {
+				AND = {
+					galaxy_size = Massive
+					num_fleets < 10
+				}
+				AND = {
+					galaxy_size = Enormous
+					num_fleets < 12
+				}
+				AND = {
+					galaxy_size = Gargantuan
+					num_fleets < 16
+				}
+				AND = {
+					galaxy_size = Titanic
+					num_fleets < 20
+				}
+				AND = {
+					galaxy_size = "Colossal - 3k"
+					num_fleets < 24
+				}
+				AND = {
+					galaxy_size = "Colossal - 4k"
+					num_fleets < 32
+				}
+				AND = {
+					galaxy_size = "Colossal - 5k"
+					num_fleets < 40
+				}
+			}
+		}
+	}
+
+	immediate = {
+		random_list = {
+			5 = {
+				event_target:tiyanki_spawn_system = {
+					random_system_planet = {
+						limit = { 
+							OR = {
+								has_planet_flag = tiyanki_giant1
+								has_planet_flag = tiyanki_giant2
+								has_planet_flag = tiyanki_giant3
+								has_planet_flag = tiyanki_giant4
+							}
+						}
+						save_event_target_as = giant
+					}
+				}
+				random_list = {
+					10 = { create_tiyanki_fleet_1 = yes }
+					10 = { create_tiyanki_fleet_2 = yes }
+					10 = { create_tiyanki_fleet_3 = yes }
+					10 = { create_tiyanki_fleet_4 = yes }
+					10 = { create_tiyanki_fleet_5 = yes }
+				}
+			}
+			150 = {}
+		}
+	}
+}
